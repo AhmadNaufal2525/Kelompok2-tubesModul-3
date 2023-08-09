@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05 Validate Add Employee required field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8276fee-540e-41ea-be5b-2b02641d0782</testCaseGuid>
+</TestCaseEntity>

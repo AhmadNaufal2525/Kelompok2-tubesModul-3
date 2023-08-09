@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07 Validate No Records Employee Found Alert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c437cfbd-639f-4161-9b29-f30d2063086f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-13 Validate Add Candidates required field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c01e0acc-bee0-4a9f-9d47-8664861ccca9</testCaseGuid>
+</TestCaseEntity>
